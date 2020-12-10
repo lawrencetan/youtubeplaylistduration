@@ -1,2 +1,2 @@
 # youtubeplaylistduration
-count duration of a specific youtube playlist
+count total duration of a specific playlist  
